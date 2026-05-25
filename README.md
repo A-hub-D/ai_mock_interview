@@ -303,14 +303,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Open Source Community** for the amazing libraries and tools
 
 ## 📞 Support
+- **Email**: adya6881@gmail.com
 
-- **GitHub Issues**: [Report bugs or request features](https://github.com/Prabhat2912/ai-mock-interview/issues)
-- **Email**: pk993105@gmail.com
-- **Twitter**: [@real_prabhat1](https://twitter.com/real_prabhat1)
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/Prabhat2912">Prabhat Kumar</a></p>
+  <p>Made with ❤️ by <a href="https://github.com/A-hub-D">Adya Dwivedi</a></p>
   <p>⭐ Star this repository if you found it helpful!</p>
 </div>
